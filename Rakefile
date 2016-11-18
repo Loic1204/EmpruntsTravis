@@ -17,8 +17,8 @@ task :default => :WIP
 #
 # Supprimer le # pour traiter le bon exercice -- ou les deux exercices.
 #
-task :WIP => :outline1
-#task :WIP => :outline2
+#task :WIP => :outline1
+task :WIP => :outline2
 
 #
 # Pour executer toutes les features.

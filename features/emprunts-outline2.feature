@@ -18,5 +18,7 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
 
 
     Examples:
-    # A COMPLETER!
-    # Ici, on aimerait s'assurer de tester toutes les combinaisons possibles!
+    | titre1 | titre2 | n | k |
+    | Refactoring | e | 1 | 2 |
+    | Clean Code | D | 1 | 2 |
+    | DSL | e | 2 | 2 |
