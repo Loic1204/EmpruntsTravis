@@ -13,5 +13,5 @@ Feature: Je veux pouvoir ajouter/supprimer des emprunts
 
     Examples:
     | e  | titre                    | emprunteur |
-    # A COMPLETER!
+    | code | title                    | borrower |
     | e1 | TITRE               | QUI        | 
